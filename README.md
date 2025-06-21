@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Karan Gandhi
-- 👀 I’m in Creative Experience /  Ghost Team
-- 🌱 I’m currently working on Composable Studio
+- 👀 I’m in Creative Experience / Ghost Team
+- 🌱 I’m currently working on Composable Studio & Visual Builder
 - 📫 How to reach me karan.gandhi@contentstack.com
+-  Message me on [Slack](https://contentstack.slack.com/archives/D0878GBM45S)
